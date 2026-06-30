@@ -24,8 +24,12 @@ My interests include **AI Agent Systems**, **Backend Development**, **Software A
 
 ## ⚙ Main Projects
 <div align="center">
-  <img src="https://github.com/abhayvinodh/abhayvinodh/blob/main/assets/gridgaurd.webp?raw=true" alt="IoT Devices" width=300/>
-  <img src="https://github.com/abhayvinodh/abhayvinodh/blob/main/assets/jarivs.webp?raw=true" alt="IoT Devices" width=300/>
+  <a href="https://github.com/abhayvinodh/jarvis">
+    <img src="https://github.com/abhayvinodh/abhayvinodh/blob/main/assets/jarivs.webp?raw=true" alt="IoT Devices" width=300/>
+  </a>
+  <a href="https://github.com/abhayvinodh/GridGaurd">
+    <img src="https://github.com/abhayvinodh/abhayvinodh/blob/main/assets/gridgaurd.webp?raw=true" alt="IoT Devices" width=300/>
+  </a>
 </div>
 
 ## 💻 Tech Stack
